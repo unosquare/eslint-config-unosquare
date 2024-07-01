@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unosquare",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "description": "Eslint config for Unosquare",
   "main": "lib/index.js",
   "files": [
@@ -14,8 +14,8 @@
   "author": "Unosquare",
   "private": false,
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.14.1",
-    "@typescript-eslint/parser": "^7.14.1",
+    "@typescript-eslint/eslint-plugin": "^7.15.0",
+    "@typescript-eslint/parser": "^7.15.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-react": "^7.34.3",
