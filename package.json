@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unosquare",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "description": "Eslint config for Unosquare",
   "main": "lib/index.js",
   "files": [
